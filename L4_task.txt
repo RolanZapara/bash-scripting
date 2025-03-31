@@ -1,0 +1,12 @@
+task to create file with name script.sh
+file should contain:
+#!/bin/bash
+echo "Scripting is fun"
+
+then to give correct permission we can chmod it with 755 for instance, so use next commands
+
+$ chmod 755 script.sh
+$ ./script.sh
+
+OUTPUT SHOULB BE
+Scripting is fun!
