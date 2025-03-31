@@ -1,11 +1,2 @@
 #!/bin/bash
-echo "Scripting is fun"
-
-#!/bin/csh 
-echo "This script uses csh as the interpreter"
-
-#!/bin/ksh
-echo "This script uses ksh as the interpreter"
-
-#!/bin/zsh
-echo "This script uses zsh as the interpreter"
+sleep 90
