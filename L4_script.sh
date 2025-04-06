@@ -1,2 +1,2 @@
 #!/bin/bash
-sleep 90
+print "This is a bash script"
